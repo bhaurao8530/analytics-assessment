@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "investor_id": 1,
+    "analytics_date": "2026-02-14T08:46:19.602Z",
+    "total_invested": null,
+    "investments_count": 6
+  },
+  {
+    "id": 2,
+    "investor_id": 2,
+    "analytics_date": "2026-02-14T08:46:19.602Z",
+    "total_invested": null,
+    "investments_count": 3
+  },
+  {
+    "id": 3,
+    "investor_id": 3,
+    "analytics_date": "2026-02-14T08:46:19.602Z",
+    "total_invested": null,
+    "investments_count": 4
+  },
+  {
+    "id": 4,
+    "investor_id": 4,
+    "analytics_date": "2026-02-14T08:46:19.602Z",
+    "total_invested": null,
+    "investments_count": 4
+  },
+  {
+    "id": 5,
+    "investor_id": 5,
+    "analytics_date": "2026-02-14T08:46:19.602Z",
+    "total_invested": null,
+    "investments_count": 5
+  },
+  {
+    "id": 6,
+    "investor_id": 6,
+    "analytics_date": "2026-02-14T08:46:19.602Z",
+    "total_invested": null,
+    "investments_count": 6
+  },
+  {
+    "id": 7,
+    "investor_id": 7,
+    "analytics_date": "2026-02-14T08:46:19.602Z",
+    "total_invested": null,
+    "investments_count": 7
+  },
+  {
+    "id": 8,
+    "investor_id": 8,
+    "analytics_date": "2026-02-14T08:46:19.602Z",
+    "total_invested": null,
+    "investments_count": 6
+  },
+  {
+    "id": 9,
+    "investor_id": 9,
+    "analytics_date": "2026-02-14T08:46:19.602Z",
+    "total_invested": null,
+    "investments_count": 5
+  },
+  {
+    "id": 10,
+    "investor_id": 10,
+    "analytics_date": "2026-02-14T08:46:19.602Z",
+    "total_invested": null,
+    "investments_count": 4
+  }
+]

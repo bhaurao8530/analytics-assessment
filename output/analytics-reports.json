@@ -1,0 +1,102 @@
+[
+  {
+    "type": "campaign",
+    "ref_id": 1,
+    "value": null
+  },
+  {
+    "type": "campaign",
+    "ref_id": 2,
+    "value": null
+  },
+  {
+    "type": "campaign",
+    "ref_id": 3,
+    "value": null
+  },
+  {
+    "type": "campaign",
+    "ref_id": 4,
+    "value": null
+  },
+  {
+    "type": "campaign",
+    "ref_id": 5,
+    "value": null
+  },
+  {
+    "type": "campaign",
+    "ref_id": 6,
+    "value": null
+  },
+  {
+    "type": "campaign",
+    "ref_id": 7,
+    "value": null
+  },
+  {
+    "type": "campaign",
+    "ref_id": 8,
+    "value": null
+  },
+  {
+    "type": "campaign",
+    "ref_id": 9,
+    "value": null
+  },
+  {
+    "type": "campaign",
+    "ref_id": 10,
+    "value": null
+  },
+  {
+    "type": "investor",
+    "ref_id": 1,
+    "value": null
+  },
+  {
+    "type": "investor",
+    "ref_id": 2,
+    "value": null
+  },
+  {
+    "type": "investor",
+    "ref_id": 3,
+    "value": null
+  },
+  {
+    "type": "investor",
+    "ref_id": 4,
+    "value": null
+  },
+  {
+    "type": "investor",
+    "ref_id": 5,
+    "value": null
+  },
+  {
+    "type": "investor",
+    "ref_id": 6,
+    "value": null
+  },
+  {
+    "type": "investor",
+    "ref_id": 7,
+    "value": null
+  },
+  {
+    "type": "investor",
+    "ref_id": 8,
+    "value": null
+  },
+  {
+    "type": "investor",
+    "ref_id": 9,
+    "value": null
+  },
+  {
+    "type": "investor",
+    "ref_id": 10,
+    "value": null
+  }
+]

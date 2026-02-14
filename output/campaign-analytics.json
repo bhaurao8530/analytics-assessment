@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "campaign_id": 1,
+    "analytics_date": "2026-02-14T08:46:19.600Z",
+    "total_investors": 7,
+    "total_raised": null,
+    "minimum_commitment": 5000000
+  },
+  {
+    "id": 2,
+    "campaign_id": 2,
+    "analytics_date": "2026-02-14T08:46:19.600Z",
+    "total_investors": 6,
+    "total_raised": null,
+    "minimum_commitment": 5000000
+  },
+  {
+    "id": 3,
+    "campaign_id": 3,
+    "analytics_date": "2026-02-14T08:46:19.600Z",
+    "total_investors": 6,
+    "total_raised": null,
+    "minimum_commitment": 5000000
+  },
+  {
+    "id": 4,
+    "campaign_id": 4,
+    "analytics_date": "2026-02-14T08:46:19.600Z",
+    "total_investors": 6,
+    "total_raised": null,
+    "minimum_commitment": 10000000
+  },
+  {
+    "id": 5,
+    "campaign_id": 5,
+    "analytics_date": "2026-02-14T08:46:19.600Z",
+    "total_investors": 5,
+    "total_raised": null,
+    "minimum_commitment": 5000000
+  },
+  {
+    "id": 6,
+    "campaign_id": 6,
+    "analytics_date": "2026-02-14T08:46:19.600Z",
+    "total_investors": 4,
+    "total_raised": null,
+    "minimum_commitment": 8000000
+  },
+  {
+    "id": 7,
+    "campaign_id": 7,
+    "analytics_date": "2026-02-14T08:46:19.600Z",
+    "total_investors": 4,
+    "total_raised": null,
+    "minimum_commitment": 6000000
+  },
+  {
+    "id": 8,
+    "campaign_id": 8,
+    "analytics_date": "2026-02-14T08:46:19.600Z",
+    "total_investors": 4,
+    "total_raised": null,
+    "minimum_commitment": 7000000
+  },
+  {
+    "id": 9,
+    "campaign_id": 9,
+    "analytics_date": "2026-02-14T08:46:19.600Z",
+    "total_investors": 4,
+    "total_raised": null,
+    "minimum_commitment": 9000000
+  },
+  {
+    "id": 10,
+    "campaign_id": 10,
+    "analytics_date": "2026-02-14T08:46:19.600Z",
+    "total_investors": 3,
+    "total_raised": null,
+    "minimum_commitment": 5500000
+  }
+]
